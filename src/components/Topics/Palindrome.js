@@ -31,6 +31,7 @@ class Palindrome extends Component{
 
 
 
+
     render(){
         return (
             <div className='puzzleBox palindromePB'>
